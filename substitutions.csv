@@ -1,0 +1,14 @@
+substitution_name,smiles,source
+none,[H],
+methyl,[CH3],
+methoxy, [OH0]C,
+trifluoromethyl,[CH0](F)(F)F,
+cyano,[CH0]#N,
+cyanate, [OH0]C#N, https://doi.org/10.1039/D1SC01426A
+tertbutyl,[CH2]C(C)(C)C,
+SiMe3,[SiH0](-C)(-C)-C,
+pyrrole,[NH0]1C=CC=C1,
+benzyl,[cH0]1ccccc1,
+mesityl,[cH0]1c(C)cc(C)cc(C)1,
+N-methylpyrrolidine, [CH1]N1CCCC1, https://doi.org/10.1039/D0TC05218C
+N-dimethyl, [NH0](C)(C), https://doi.org/10.1021/acsami.1c00238
